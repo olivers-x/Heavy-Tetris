@@ -1,0 +1,5 @@
+{
+  "name": "Heavy Tetris",
+  "description": "A Tetris-style puzzle game featuring the custom, complex block shapes provided in the blueprint.",
+  "requestFramePermissions": []
+}
